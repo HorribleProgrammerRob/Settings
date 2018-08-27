@@ -1,0 +1,69 @@
+[legacy/profiles:/:0ef65295-069d-4785-b983-487b23998041]
+default='0ef65295-069d-4785-b983-487b23998041'
+foreground-color='rgb(170,170,170)'
+visible-name='Ranieri'
+palette=['rgb(7,54,66)', 'rgb(220,50,47)', 'rgb(133,153,0)', 'rgb(181,137,0)', 'rgb(38,139,210)', 'rgb(211,54,130)', 'rgb(42,161,152)', 'rgb(238,232,213)', 'rgb(0,43,54)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
+default-size-columns=147
+default-size-rows=45
+use-system-font=false
+use-theme-colors=false
+font='Nimbus Mono L Bold Oblique 8'
+list=['4d620931-e1ea-4256-970f-362c7f39cac4', '0ef65295-069d-4785-b983-487b23998041']
+bold-color-same-as-fg=false
+bold-color='rgb(136,138,133)'
+background-color='rgb(0,0,0)'
+background-transparency-percent=42
+
+[legacy/profiles:/:0ef65295-069d-4785-b983-487b23998041/:4d620931-e1ea-4256-970f-362c7f39cac4]
+foreground-color='rgb(170,170,170)'
+visible-name='Rob'
+palette=['rgb(7,54,66)', 'rgb(220,50,47)', 'rgb(133,153,0)', 'rgb(181,137,0)', 'rgb(38,139,210)', 'rgb(211,54,130)', 'rgb(42,161,152)', 'rgb(238,232,213)', 'rgb(0,43,54)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
+default-size-rows=45
+default-size-columns=147
+use-system-font=false
+use-theme-colors=false
+font='Nimbus Mono L Bold Oblique 8'
+bold-color-same-as-fg=false
+bold-color='rgb(136,138,133)'
+background-color='rgb(0,0,0)'
+background-transparency-percent=42
+
+[legacy/profiles:/:0ef65295-069d-4785-b983-487b23998041/:0ef65295-069d-4785-b983-487b23998041]
+foreground-color='rgb(170,170,170)'
+visible-name='Rob'
+palette=['rgb(7,54,66)', 'rgb(220,50,47)', 'rgb(133,153,0)', 'rgb(181,137,0)', 'rgb(38,139,210)', 'rgb(211,54,130)', 'rgb(42,161,152)', 'rgb(238,232,213)', 'rgb(0,43,54)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
+default-size-rows=45
+default-size-columns=147
+use-system-font=false
+use-theme-colors=false
+font='Nimbus Mono L Bold Oblique 8'
+bold-color-same-as-fg=false
+bold-color='rgb(136,138,133)'
+background-color='rgb(0,0,0)'
+background-transparency-percent=42
+
+[legacy/profiles:]
+list=['4d620931-e1ea-4256-970f-362c7f39cac4', '0ef65295-069d-4785-b983-487b23998041', '63ffe135-e977-449d-b576-d4cf7cf15919']
+default='0ef65295-069d-4785-b983-487b23998041'
+
+[legacy/profiles:/:4d620931-e1ea-4256-970f-362c7f39cac4]
+foreground-color='rgb(170,170,170)'
+visible-name='Rob'
+palette=['rgb(7,54,66)', 'rgb(220,50,47)', 'rgb(133,153,0)', 'rgb(181,137,0)', 'rgb(38,139,210)', 'rgb(211,54,130)', 'rgb(42,161,152)', 'rgb(238,232,213)', 'rgb(0,43,54)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
+default-size-rows=45
+default-size-columns=147
+use-system-font=false
+use-theme-colors=false
+font='Nimbus Mono L Bold Oblique 8'
+bold-color-same-as-fg=false
+bold-color='rgb(136,138,133)'
+background-color='rgb(0,0,0)'
+background-transparency-percent=42
+
+[legacy/profiles:/:63ffe135-e977-449d-b576-d4cf7cf15919]
+visible-name='Test'
+
+[legacy]
+schema-version=uint32 3
+theme-variant='system'
+default-show-menubar=false
